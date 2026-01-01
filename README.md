@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Professional Windows uninstaller with advanced cleanup capabilities**  
-by [@argdus](https://github.com/argdus) | [@AlgorithmIntensity](https://github.com/AlgorithmIntensity)
+by [@AlgorithmIntensity](https://github.com/AlgorithmIntensity)
 
 ---
 
