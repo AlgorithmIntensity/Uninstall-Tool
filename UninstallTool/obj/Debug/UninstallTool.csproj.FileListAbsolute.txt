@@ -1,0 +1,11 @@
+Z:\VS2022\UninstallTool\UninstallTool\bin\Debug\UninstallTool.exe.config
+Z:\VS2022\UninstallTool\UninstallTool\bin\Debug\UninstallTool.exe
+Z:\VS2022\UninstallTool\UninstallTool\bin\Debug\UninstallTool.pdb
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.csproj.AssemblyReference.cache
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.Form1.resources
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.Properties.Resources.resources
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.csproj.GenerateResource.cache
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.csproj.CoreCompileInputs.cache
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.exe
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.pdb
+Z:\VS2022\UninstallTool\UninstallTool\obj\Debug\UninstallTool.exe.config
